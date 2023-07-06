@@ -1,6 +1,6 @@
 ### How it works
 
-Using the gmail api, we can monitor emails coming in to the inbox. Using a text file with company names, we can filter out
+Using the gmail api, we can monitor emails coming into the inbox. Using a text file with company names, we can filter out
 emails we aren't looking for, and notify ourselves of the emails we are.
 
 ### To-Do
